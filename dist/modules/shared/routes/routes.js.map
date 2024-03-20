@@ -1,0 +1,1 @@
+{"version":3,"file":"routes.js","sourceRoot":"","sources":["../../../../src/modules/shared/routes/routes.ts"],"names":[],"mappings":";;;AAAA,2DAA6D;AAEhD,QAAA,MAAM,GAAG;IACpB;QACE,IAAI,EAAE,OAAO;QACb,MAAM,EAAE,0BAAW;QACnB,QAAQ,EAAE;YACR;gBACE,IAAI,EAAE,QAAQ;aAEf;SACF;KACF;CACF,CAAC"}
